@@ -13,6 +13,12 @@ After everything is built, it will copy the `game` binary to the `bin` directory
 ./build.sh
 ```
 
+### Windows
+
+```
+./build.bat
+```
+
 ## Run
 
 ### Linux / MacOS
@@ -20,5 +26,12 @@ After everything is built, it will copy the `game` binary to the `bin` directory
 ```
 cd bin
 ./game
+```
+
+### Windows
+
+```
+cd bin
+./game.exe
 ```
 
